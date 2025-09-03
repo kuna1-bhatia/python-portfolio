@@ -1,2 +1,2 @@
 # python-portfolio
-This is my python portfolio in beginner level to Intermediate level
+This is my python portfolio at beginner level to Intermediate level
